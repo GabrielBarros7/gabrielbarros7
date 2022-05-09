@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Gabriel Barros Apolinário 👋
 
 - 🌱 Estudando HTML e CSS.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 Contate-me no email: gabriel.wmx5@gmail.com
 
 <div align="left">
