@@ -4,7 +4,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 Contate-me no email: gabriel.wmx5@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="left">
   <a href="https://github.com/gabrielbarros7">
